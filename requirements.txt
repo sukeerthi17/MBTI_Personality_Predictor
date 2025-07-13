@@ -1,0 +1,7 @@
+streamlit==1.42.2
+scikit-learn==1.6.1
+pandas==2.2.2
+matplotlib==3.9.0
+joblib==1.4.2
+numpy==2.2.4
+Pillow==11.2.1
